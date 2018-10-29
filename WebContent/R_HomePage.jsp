@@ -12,6 +12,6 @@
      <frame src="LibraryInfo.jsp" name="mainFrame" id="mainFrame">
 </frameset>
 <body bgcolor="#FFFFCC">
- 
+	//测试测试
 </body>
 </html>
