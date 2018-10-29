@@ -1,6 +1,6 @@
 # 图书馆管理系统
 
-**技术栈：** Servlet、MySQL
+**技术栈：** Servlet、MySQL、JSP、HTML、JavaScript
 
 **主要功能：**
 
