@@ -12,6 +12,6 @@
      <frame src="LibraryInfo.jsp" name="mainFrame" id="mainFrame">
 </frameset>
 <body bgcolor="#FFFFCC">
- 
+   //提交
 </body>
 </html>
